@@ -1,0 +1,15 @@
+{
+  "name": "grunt-license-collection",
+  "version": "0.0.1",
+  "description": "generate license comment collection js.",
+  "scripts": {},
+  "author": "Fujisawa Shin",
+  "keywords": [
+    "gruntplugin"
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "uglify-js": "~2.3.4",
+    "colors": "~0.6.0-1"
+  }
+}
